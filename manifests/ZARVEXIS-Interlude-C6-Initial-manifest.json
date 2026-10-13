@@ -1,0 +1,82 @@
+{
+  "SchemaVersion": 1,
+  "Product": "ZARVEXIS-Interlude-C6",
+  "GeneratedUtc": "2026-10-13T18:59:49.1181111+00:00",
+  "Files": [
+    {
+      "Path": "animations/NPHRN_Skill.usk",
+      "Sha256": "6B77A023F1D9492F674BCCADFAE3F0148F9CD30557903423D169CEAC981077D7",
+      "Size": 233028
+    },
+    {
+      "Path": "system/L2.exe",
+      "Sha256": "E8EB4C27AC41269D8CF0D7136D4186105F02A62DC084CBAC9AB4B54DC3CBFB1C",
+      "Size": 1707520
+    },
+    {
+      "Path": "system/LineageNPCs_NPC03.u",
+      "Sha256": "E15B92E23C09529BBB155B4040AF1371546B6F0254D37F39279694CE43C8B05E",
+      "Size": 16302271
+    },
+    {
+      "Path": "system/NPHRN_Effect.u",
+      "Sha256": "616EC9E3C84B9A58710163CD46D0376B89C4968C9A8BED771DCE9925D78BEB4E",
+      "Size": 2158531
+    },
+    {
+      "Path": "system/NPHRN_ICO.u",
+      "Sha256": "2C3E9C9D992DE4441357D2F8689AC82CAAE35B59EFF79FBEAD9E1F7678F4B13B",
+      "Size": 141821
+    },
+    {
+      "Path": "system/chatfilter.ini",
+      "Sha256": "900B69D9A43F457F8FA15E58BAD022475D49A7D97FE2F1A5AFD24205613B0AE1",
+      "Size": 758
+    },
+    {
+      "Path": "system/l2.ini",
+      "Sha256": "01E797143223D5C229056E420652BCB7E22F152284F16CE8C5F4D9DBCD57812B",
+      "Size": 3376
+    },
+    {
+      "Path": "system/npcgrp.dat",
+      "Sha256": "99EFD7DF39C220DA95A785C20B3B05414CB3E8DC14E32276949F7DD789D1150F",
+      "Size": 233904
+    },
+    {
+      "Path": "system/npcname-e.dat",
+      "Sha256": "5AE3C7718473D450C5061516A7E336634C4D897EE03233C61980639DEB415FF7",
+      "Size": 51504
+    },
+    {
+      "Path": "system/s_info.ini",
+      "Sha256": "B388237602F010A02AA3F4360153873CA0CF36FBA57A645907AE65464F72B189",
+      "Size": 54
+    },
+    {
+      "Path": "systextures/Crest.utx",
+      "Sha256": "6022F67D3D5B7597718AB0A1E79632859B1271A251EBE870FCAB9DBAD13FAD47",
+      "Size": 8068
+    },
+    {
+      "Path": "systextures/L2Patch.utx",
+      "Sha256": "95F0CC360556C0636E7DDBE5E30E94D744A627E9232CDD27CF24B75B775C5963",
+      "Size": 1979312
+    },
+    {
+      "Path": "systextures/L2UI_Sublimity.utx",
+      "Sha256": "BFC5FFBA8AF2C2DEAEA7860316415257A56EEBBC0F5736BC24B4A95FF790BCD0",
+      "Size": 70826289
+    },
+    {
+      "Path": "systextures/NPHRN_LET.utx",
+      "Sha256": "8120018D20983E137F795D291E8B4ACB069ADE8A0156736B42AA4D9E1C41F134",
+      "Size": 6643545
+    },
+    {
+      "Path": "systextures/Was.utx",
+      "Sha256": "1E5ABB98F84C3A8C89D18A1D050459883034E2F15A5457F7118148EBEAE65F9E",
+      "Size": 22066475
+    }
+  ]
+}
